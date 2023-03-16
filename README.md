@@ -1,2 +1,2 @@
 # Capstone-Project
-Made by Vaishnav Santhosh
+Made by Vaishnav Santhosh & Gokul Dinesh
