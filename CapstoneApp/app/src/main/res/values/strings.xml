@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capstone App</string>
+    <string name="edit_ip">Enter the IP</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_pos">Get Car Position</string>
+    <string name="port_flask">Enter server port:</string>
+    <string name="tag_id">Enter tag id:</string>
+    <string name="action_settings">Settings</string>
+</resources>
